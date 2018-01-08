@@ -1,1 +1,2 @@
 Hi this is Teja i am just checking Git
+i am giving my second commit
